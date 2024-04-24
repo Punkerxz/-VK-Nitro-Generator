@@ -1,1 +1,3 @@
-# -VK-Nitro-Generator
+[VK] Nitro Generator
+By: GH XL
+update: 2024
